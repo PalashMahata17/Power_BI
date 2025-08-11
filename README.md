@@ -1,4 +1,4 @@
-THis dashboard aims to transform raw financial data into a clear, interactive story of revenue and expenses—helping us, as a data science student, master Power BI while delivering real business insights.
+This dashboard aims to transform raw financial data into a clear, interactive story of revenue and expenses—helping us, as a data science student, master Power BI while delivering real business insights.
 
 Purpose & Vision ::
 
